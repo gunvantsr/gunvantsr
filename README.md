@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there! 👋
 
 I am Gunvant. 
 
 
-### Let's connect!
+#### Let's connect!
 
 
 
