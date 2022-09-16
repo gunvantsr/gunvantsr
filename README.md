@@ -4,7 +4,7 @@ I am Gunvant.
 
 I'm Software Engineer.
 I work on building backend services, deploying them to the cloud and managing the infrastructure.
-My tech stack looks like: Node.js, express.js, MongoDB, PostgresSQL, AWS Cloud.
+My tech stack looks like: Node.js, Express.js, MongoDB, PostgresSQL, AWS Cloud.
 
 Large scale systems fascinate me. 😍
 
